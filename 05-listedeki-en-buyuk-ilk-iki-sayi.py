@@ -1,5 +1,5 @@
-def buyuk_bul(sayilar,boyut):
-    max,max2=0,0
+def buyuk_bul(liste,boyut):
+    max,max2=liste[0],liste[1]
 
     for i in range(0,boyut):
         if liste[i] > max:
