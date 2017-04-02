@@ -12,4 +12,3 @@ def convert_binary(sayi):
     print(liste)
 
 sayi = int(input("Sayini gir : "))
-print("\nSayinin ikilik taban karsiligi\n{}".format(convert_binary(sayi)))
